@@ -6,7 +6,8 @@ All students have a major issues, with loads of Homework, there is no way to kee
 
 # Format of text file:
 
-<Heading> " -- " <description> " -- "<submission date>(format: date/month/year)\n
+<Heading> " -- " <description> " -- "<submission date>(format: date/month/year)
+  
 note: the heading,description and submission ate is separated by  -- <space><dash><dash><space>
 
 # some helpful links:
