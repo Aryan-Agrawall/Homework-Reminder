@@ -13,6 +13,12 @@ note: the heading,description and submission ate is separated by  -- <space><das
 # some helpful links:
 
 Enabling google API -- https://developers.google.com/gmail/api/quickstart/python
+
+
 Reference to EZgmail (library used) -- https://pypi.org/project/EZGmail/
+
+
 Basic sending email guide -- https://automatetheboringstuff.com/2e/chapter18/
+
+
 Refererence to datetime(anathor module used) -- https://pypi.org/project/DateTime/
